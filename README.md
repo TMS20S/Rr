@@ -1,13 +1,10 @@
 
-# add 
- 
-    git remote rm origin ==> clear 
-
-    git remote add origin "{https://github.com/TMS20S/Rr.git}" ==> the new 
-
-    git branch -M main
+# Add
     
-    git add . ==> add the file
-    git commit -m "first commit"
-    git push -u origin main
-
+# Update
+   git clone https://github.com/TMS20S/Rr.git
+   git add *
+   git commit -m "first commit"
+   git push -u origin main
+   
+  
