@@ -11,7 +11,9 @@
       git clone https://github.com/TMS20S/Rr.git
       git add *
       git commit -m "first commit"
-      git push -u origin main
+      git push -u origin maim
+# Delet
+        git rm -f <filename>
   
    
    
