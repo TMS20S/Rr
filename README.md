@@ -8,8 +8,6 @@
     git branch -M main
     
     git add . ==> add the file
-
     git commit -m "first commit"
-   
     git push -u origin main
 
